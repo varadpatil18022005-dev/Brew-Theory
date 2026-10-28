@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brew Theory ☕
 
 A full-stack cafe website built with **React, CSS, Node.js, Express, and MongoDB Atlas**. Guests can create an account, browse the cafe menu, place an order, reserve a table, leave a review, and contact the cafe.
@@ -172,3 +173,6 @@ Place website images in `frontend/public/images/`. They can then be referenced i
 ## GitHub safety
 
 Before publishing, check that your local `backend/.env` is ignored and that no credentials, screenshots containing secrets, or private customer data are staged. Keep `backend/.env.example` in the repository with placeholders only.
+=======
+# Brew-Theory
+>>>>>>> origin/main
